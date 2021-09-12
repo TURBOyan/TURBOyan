@@ -10,5 +10,5 @@ Disallow: /fonts/
 Disallow: /vendors/
 Disallow: /fancybox/
 
-Sitemap: https://www.turbofactory.xyz/sitemap.xml
-Sitemap: https://www.turbofactory.xyz/baidusitemap.xml
+Sitemap: https://www.turboyan.com/sitemap.xml
+Sitemap: https://www.turboyan.com/baidusitemap.xml

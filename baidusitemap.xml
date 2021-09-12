@@ -1,43 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://www.turbofactory.xyz/2020/11/02/xrdp_tutorial/</loc>
-    <lastmod>2021-09-12</lastmod>
-  </url>
-  <url>
-    <loc>https://www.turbofactory.xyz/2020/08/15/moon_light_1/</loc>
-    <lastmod>2020-12-02</lastmod>
-  </url>
-  <url>
-    <loc>https://www.turbofactory.xyz/2020/10/03/vscode_remote_ssh_tunnel/</loc>
+    <loc>https://www.turboyan.com/2020/08/26/PWM/</loc>
     <lastmod>2020-11-30</lastmod>
   </url>
   <url>
-    <loc>https://www.turbofactory.xyz/2020/08/26/PWM/</loc>
-    <lastmod>2020-11-30</lastmod>
-  </url>
-  <url>
-    <loc>https://www.turbofactory.xyz/2020/10/06/TCP_shake_hands/</loc>
-    <lastmod>2020-11-30</lastmod>
-  </url>
-  <url>
-    <loc>https://www.turbofactory.xyz/2020/08/23/charging_coil/</loc>
-    <lastmod>2020-10-12</lastmod>
-  </url>
-  <url>
-    <loc>https://www.turbofactory.xyz/2020/07/20/electronic/</loc>
-    <lastmod>2020-10-12</lastmod>
-  </url>
-  <url>
-    <loc>https://www.turbofactory.xyz/2020/07/27/git/</loc>
-    <lastmod>2020-10-12</lastmod>
-  </url>
-  <url>
-    <loc>https://www.turbofactory.xyz/2020/07/03/MPU9250/</loc>
-    <lastmod>2020-10-12</lastmod>
-  </url>
-  <url>
-    <loc>https://www.turbofactory.xyz/2020/06/06/math-formula/</loc>
+    <loc>https://www.turboyan.com/2020/07/03/MPU9250/</loc>
     <lastmod>2020-10-12</lastmod>
   </url>
 </urlset> 
